@@ -6,7 +6,7 @@
         <a href="https://github.com/kinghacker0" class="no-underline Link--primary">kinghacker0</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
       </div>
 
-</path></svg></a><b><i>Howdy , it's Mohit Saran <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></i></b></h2>
+</path></svg></a><b><i>Howdy , it's Mohit Kumar <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></i></b></h2>
 
 ![Hackersking GitHub stats](https://github-readme-stats.vercel.app/api/?username=kinghacker0&layout=compact&show_icons=true&theme=radical) 
 ![Hackersking GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kinghacker0&layout=compact&show_icons=true&theme=radical)
